@@ -8,5 +8,13 @@ public class MainClass01 {
 		System.out.println("원숭이");
 		Car car1=new Car();
 		car1.drive();
+		System.out.println("주뎅이");
 	}
 }
+
+
+
+
+
+
+
