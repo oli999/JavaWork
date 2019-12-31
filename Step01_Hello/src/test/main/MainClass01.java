@@ -1,6 +1,7 @@
 package test.main;
 
 import test.mypac.Car;
+import test.mypac.Pen;
 import test.mypac.Phone;
 
 public class MainClass01 {
@@ -14,5 +15,7 @@ public class MainClass01 {
 		p1.call();
 		p1.takePicture();
 		System.out.println("덩어리");
+		Pen pen=new Pen();
+		pen.write();
 	}
 }
